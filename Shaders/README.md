@@ -1,0 +1,1 @@
+The script will copy shaders from repos into this folder.

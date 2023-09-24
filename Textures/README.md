@@ -1,0 +1,1 @@
+The script will copy textures from repos into this folder.

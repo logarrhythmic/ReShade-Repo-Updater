@@ -1,0 +1,5 @@
+https://github.com/KosRud/Shaders.git
+https://github.com/rj200/Glamarye_Fast_Effects_for_ReShade.git
+https://github.com/mj-ehsan/NiceGuy-Shaders.git
+https://github.com/Heathen/Pirate-Shaders.git
+https://github.com/GarrettGunnell/AcerolaFX.git
